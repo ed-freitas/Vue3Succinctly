@@ -1,2 +1,2 @@
 # Vue3Succinctly
-Vue 3 Succinctly
+This is the repo for the Vue 3 Succinctly book from Syncfusion.
